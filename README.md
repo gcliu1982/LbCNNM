@@ -1,5 +1,6 @@
 The Matlab codes of a time series forecasting method called Learning-based Convolution Nuclear Norm Minimization (LbCNNM)
 
+Reference: Guangcan Liu, Time Series Forecasting via Learning Convolutionally Low-Rank Models, 2021. 
 
 1. How to use the code:
 
