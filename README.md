@@ -3,10 +3,7 @@ The Matlab codes of a time series forecasting method called Learning-based Convo
 
 1. How to use the code:
 
-	a) unzip the .rar files to get the data of M4
-
-
-	b) Just type testTSDL() or testM4('Hourly') in the console to get started. The codes were tested on Matlab 2019a only, but the other Matlab versions should be okay.
+	Just type testTSDL() to get started. To run the codes on the M4 Competition dataset,  you need to unzip the .rar files. The codes were tested on Matlab 2019a only, but the other Matlab versions should be okay.
 
 
 2. Licence: The license gives permission for personal, academic, or educational use, but not for commercial use. 
